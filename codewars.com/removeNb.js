@@ -11,4 +11,5 @@ function removeNb(n) {
 
   return result
 }
-console.log(removeNb(26));
+
+console.log(removeNb(27));
